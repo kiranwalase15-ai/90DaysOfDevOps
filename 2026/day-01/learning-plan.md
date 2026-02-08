@@ -1,70 +1,84 @@
-1. Introduction & Current Level
-I’m Kiran Walase, a working professional with 10+ years of experience in software testing, including manual testing, automation testing with Java + Selenium, API testing, GitLab/Bitbucket usage, and hands-on work with MySQL & MongoDB.
-I have led teams for the past 2 years and currently work at Jacobs as a Senior Automation Tester.
-Now I aim to transition into DevOps and Cloud Engineering to deepen my technical foundation and expand my career path.
+# 90-Day Personal DevOps Learning Plan
 
-2. Why I Am Starting DevOps & Cloud
+## 1. Introduction & Current Level
+I’m **Kiran Walase**, a working professional with **10+ years of experience** in software testing, including manual testing, automation testing with Java + Selenium, API testing, GitLab/Bitbucket usage, and hands-on database testing with MySQL & MongoDB.  
+
+I have been a team lead for the past 2 years and currently work at **Jacobs as a Senior Automation Tester**. Now, I aim to transition into **DevOps and Cloud Engineering** to deepen my technical expertise and expand my career path.
+
+---
+
+## 2. Why I Am Starting DevOps & Cloud
 I am starting DevOps & Cloud to:
 
-Strengthen my technical depth beyond testing and enter a more infrastructure‑driven role.
-Stay relevant as organizations rapidly adopt CI/CD, containerization, Kubernetes, and cloud-native technologies.
-Build automation pipelines, optimize workflows, and contribute to end-to-end delivery systems—not just testing.
-Eventually apply these skills in my current project and train others within my organization.
+- Strengthen my technical depth beyond testing  
+- Stay relevant as organizations adopt CI/CD, Docker, Kubernetes, and cloud-native systems  
+- Build automation pipelines and contribute to end‑to‑end delivery  
+- Apply DevOps learnings in my project and conduct internal knowledge-sharing sessions  
 
+---
 
-3. My Understanding of DevOps
-DevOps is a culture and practice that integrates Development and Operations to deliver software faster, more reliably, and with automation at every stage.
-It focuses on collaboration, CI/CD, infrastructure as code, containerization, cloud platforms, monitoring, and continuous improvement.
-To me, DevOps is about ownership, discipline, automation, and problem-solving—not just tools.
+## 3. My Understanding of DevOps
+DevOps is a **culture and methodology** that brings Development and Operations together to deliver software **faster, reliably, and with automation across all stages**.
 
-4. What I Will Learn in the Next 90 Days
-For the next 90 days, I will focus on hands-on learning with real tools and projects.
-My areas of focus:
+It emphasizes:
 
-Linux (basic → advanced)
-Python for automation
-Docker & containerization
-Kubernetes fundamentals + deployments
-GitHub Actions (CI/CD)
-Terraform (IaC)
-Helm charts
-Building and documenting real projects
-Sharing progress on LinkedIn and GitHub to build visibility
+- Collaboration  
+- CI/CD  
+- Infrastructure as Code  
+- Containerization  
+- Cloud platforms  
+- Continuous improvement  
 
-I will also create mini-projects and share my learning publicly to build consistency, credibility, and confidence.
+For me, DevOps means **ownership, discipline, automation, and problem‑solving**.
 
-5. My Top 3 Goals for These 90 Days
+---
 
-Build and deploy a complete CI/CD pipeline using GitHub Actions with Docker + Kubernetes.
-Create IaC for a real application using Terraform and optionally Helm.
-Teach or mentor at least 2–3 colleagues by sharing knowledge sessions or internal training.
+## 4. What I Will Learn in the Next 90 Days
+Over the next 90 days, I will focus on *hands-on practice* with:
 
+- Linux (basic → advanced)  
+- Python scripting  
+- Docker & Containerization  
+- Kubernetes fundamentals + deployments  
+- GitHub Actions for CI/CD  
+- Terraform for IaC  
+- Helm charts  
+- Real projects + documentation real Projects on GitHub  
+- Sharing progress on LinkedIn and GitHub to build visibility
 
-6. Core DevOps Skills I Want to Build
+---
 
-Linux troubleshooting + command-line mastery
-CI/CD pipelines with automation (GitHub Actions)
-Kubernetes deployment, debugging, and container orchestration
+## 5. My Top 3 Goals for These 90 Days
+1. **Build and deploy a full CI/CD pipeline using GitHub Actions, Docker, and Kubernetes.**  
+2. **Create IaC using Terraform (optionally with Helm) to deploy a real application.**  
+3. **Conduct internal trainings / mentor colleagues on DevOps tools and practices.**
 
+---
 
-7. Weekly Time Budget
+## 6. Core DevOps Skills I Want to Build
+- **Linux troubleshooting + shell commands**  
+- **CI/CD pipelines (GitHub Actions)**  
+- **Kubernetes deployment, debugging, and container orchestration**
 
-Weekdays: 2–2.5 hours per day
-Weekends: 5–6 hours
-Daily assignments + mini-projects
-Document everything through GitHub commits, notes, and LinkedIn posts
+---
 
+## 7. Weekly Time Budget
+- **Weekdays:** 2–2.5 hours per day  
+- **Weekends:** 5–6 hours  
+- Daily assignments, hands‑on practice, GitHub commits  
+- LinkedIn documentation for accountability  
 
-8. How I Will Stay Consistent
+---
 
-Fixed daily learning slot
-Micro-goals instead of big goals
-Weekly review to track progress
-Sharing progress publicly for accountability
-Practicing instead of over-consuming tutorials
+## 8. How I Will Stay Consistent
+- Fixed study schedule  
+- Daily micro‑goals  
+- Weekly review & adjustments  
+- Public progress sharing  
+- Focus on hands‑on practice, not over‑consuming tutorials  
 
+---
 
-9. My Commitment
-This is my execution blueprint for the next 90 days.
-I will follow this plan with discipline, consistency, and intent to transition into DevOps & Cloud Engineering and apply these skills in real projects.
-
+## 9. My Commitment
+This is my execution blueprint for the next 90 days.  
+I will follow this plan with discipline, consistency, and continuous learning to successfully transition into **DevOps & Cloud Engineering** and apply these skills in real-world projects.
